@@ -1,5 +1,4 @@
 # IRIS-LDA
 Implementing LDA on IRIS dataset
-The code and its execution is available in the link below:
-
-https://github.com/smj0098-developer/IRIS-LDA/blob/main/lda.pdf
+In this project we implemented the Linear Discriminant Analysis algorithm on the IRIS dataset from scratch.
+We have also drawn different plots to show our results.
